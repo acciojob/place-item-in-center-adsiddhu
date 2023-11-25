@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-.item-1 , holder{
+.item-1 , .holder{
 	background-color: rgb(255, 0, 0);
 	justify-content:center;
 	display:flex;
